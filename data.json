@@ -1,0 +1,78 @@
+{
+  "global_status": "online",
+  "last_update": "2026-01-05",
+
+  "products": {
+    "fortnite_private": {
+      "name": "Fortnite Private",
+      "status": "Undetected",
+      "version": "1.0.0",
+      "last_update": "2026-01-03",
+      "loader_url": "https://twoj-link.pl/fortnite_private_loader.exe"
+    },
+
+    "permanent_spoofer": {
+      "name": "Permanent Spoofer",
+      "status": "Undetected",
+      "version": "2.1.4",
+      "last_update": "2026-01-02",
+      "loader_url": "https://twoj-link.pl/permanent_spoofer_loader.exe"
+    },
+
+    "temporary_spoofer": {
+      "name": "Temporary Spoofer",
+      "status": "Undetected",
+      "version": "1.3.0",
+      "last_update": "2025-12-30",
+      "loader_url": "https://twoj-link.pl/temporary_spoofer_loader.exe"
+    },
+
+    "rust_external": {
+      "name": "Rust External",
+      "status": "Undetected",
+      "version": "0.9.8",
+      "last_update": "2026-01-04",
+      "loader_url": "https://twoj-link.pl/rust_external_loader.exe"
+    },
+
+    "bo7_external": {
+      "name": "BO7 External",
+      "status": "Updating",
+      "version": "1.1.2",
+      "last_update": "2026-01-05",
+      "loader_url": "https://twoj-link.pl/bo7_external_loader.exe"
+    },
+
+    "battlefield_6_external": {
+      "name": "Battlefield 6 External",
+      "status": "Undetected",
+      "version": "1.0.1",
+      "last_update": "2026-01-01",
+      "loader_url": "https://twoj-link.pl/bf6_external_loader.exe"
+    },
+
+    "r6s_external": {
+      "name": "R6S External",
+      "status": "Undetected",
+      "version": "3.2.0",
+      "last_update": "2026-01-05",
+      "loader_url": "https://twoj-link.pl/r6s_external_loader.exe"
+    },
+
+    "eft_external": {
+      "name": "EFT External",
+      "status": "Undetected",
+      "version": "0.8.5",
+      "last_update": "2026-01-04",
+      "loader_url": "https://twoj-link.pl/eft_external_loader.exe"
+    },
+
+    "fivem_cheat": {
+      "name": "FiveM Cheat",
+      "status": "Undetected",
+      "version": "2.0.0",
+      "last_update": "2026-01-02",
+      "loader_url": "https://twoj-link.pl/fivem_cheat_loader.exe"
+    }
+  }
+}
