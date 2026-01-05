@@ -75,4 +75,43 @@
       "loader_url": "https://twoj-link.pl/fivem_cheat_loader.exe"
     }
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "logs": [
+    {
+      "product": "Fortnite Private",
+      "flag": "Online",
+      "date": "2025-12-23 18:20",
+      "text": "Updated to latest game patch.",
+      "changes": [
+        "Loader updated automatically",
+        "Licenses compensated +12 hours"
+      ]
+    },
+    
+    {
+      "product": "BO7 External",
+      "flag": "Down",
+      "date": "2026-01-05 11:40",
+      "text": "Product temporarily disabled.",
+      "changes": [
+        "Game update detected",
+        "Waiting for offsets update"
+      ]
+    }
+
+    
 }
