@@ -51,6 +51,14 @@
       "loader_url": "https://twoj-link.pl/bf6_external_loader.exe"
     },
 
+    "arc_raiders": {
+      "name": "Arc Raiders External",
+      "status": "Updating",
+      "version": "1.1.2",
+      "last_update": "2026-01-05",
+      "loader_url": "https://twoj-link.pl/bo7_external_loader.exe"
+    },
+
     "r6s_external": {
       "name": "R6S External",
       "status": "Undetected",
