@@ -74,18 +74,7 @@
       "last_update": "2026-01-02",
       "loader_url": "https://twoj-link.pl/fivem_cheat_loader.exe"
     }
-  }
-
-
-
-
-
-
-
-
-
-
-
+  },
 
 
 
@@ -101,17 +90,35 @@
         "Licenses compensated +12 hours"
       ]
     },
-    
+    {
+      "product": "Rust External",
+      "flag": "Online",
+      "date": "2026-01-04 21:10",
+      "text": "Stability improvements released.",
+      "changes": [
+        "ESP optimized",
+        "Performance improvements"
+      ]
+    },
     {
       "product": "BO7 External",
       "flag": "Down",
-      "date": "2026-01-05 11:40",
-      "text": "Product temporarily disabled.",
+      "date": "2026-01-05 10:45",
+      "text": "Product is currently updating.",
       "changes": [
         "Game update detected",
-        "Waiting for offsets update"
+        "Offsets are being updated"
+      ]
+    },
+    {
+      "product": "Permanent Spoofer",
+      "flag": "Online",
+      "date": "2026-01-02 16:30",
+      "text": "Security update deployed.",
+      "changes": [
+        "Bypass improved",
+        "Detection vectors reduced"
       ]
     }
-
-    
+  ]
 }
