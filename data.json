@@ -1,5 +1,6 @@
 {
-  "global_status": "online",
+  "global_status": "online", // online, offline
+  "loader version": "1.0.0",
   "last_update": "2026-01-05",
 
   "products": {
