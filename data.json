@@ -6,7 +6,7 @@
   "products": {
     "fortnite_private": {
       "name": "Fortnite Private",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "39.11-CL",
       "last_update": "2026-01-05",
       "loader_url": "https://twoj-link.pl/fortnite_private_loader.exe"
@@ -54,7 +54,7 @@
 
     "arc_raiders": {
       "name": "Arc Raiders External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "1.0.5",
       "last_update": "2026-01-01",
       "loader_url": "https://twoj-link.pl/bo7_external_loader.exe"
