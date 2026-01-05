@@ -14,7 +14,7 @@
 
     "permanent_spoofer": {
       "name": "Permanent Spoofer",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "Loader-3.1.MT-19DEC",
       "last_update": "2025-12-19",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Loader.exe"
@@ -22,7 +22,7 @@
 
     "temporary_spoofer": {
       "name": "Temporary Spoofer",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "Loader-2.3.MT-14NOV",
       "last_update": "2025-11-14",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/enter_license.exe"
@@ -30,7 +30,7 @@
 
     "rust_external": {
       "name": "Rust External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "0.9.8",
       "last_update": "2026-01-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
@@ -46,7 +46,7 @@
 
     "battlefield_6_external": {
       "name": "Battlefield 6 External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "1.0.9",
       "last_update": "2026-01-01",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/bf6.exe"
@@ -54,7 +54,7 @@
 
     "arc_raiders": {
       "name": "Arc Raiders External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "1.0.5",
       "last_update": "2026-01-01",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/arc.exe"
@@ -62,7 +62,7 @@
 
     "r6s_external": {
       "name": "R6S External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "2.5.7",
       "last_update": "2025-12-18",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/NJFDEh7342761.exe"
@@ -70,7 +70,7 @@
 
     "eft_external": {
       "name": "EFT External",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "1.8.5",
       "last_update": "2025-13-20",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/eft.exe"
@@ -78,7 +78,7 @@
 
     "fivem_cheat": {
       "name": "FiveM Cheat",
-      "status": "Updating",
+      "status": "Undetected",
       "version": "1.0.0",
       "last_update": "2026-01-04",
       "loader_url": ""
