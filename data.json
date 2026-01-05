@@ -3,7 +3,6 @@
   "loader_version": "0xc073f598",
   "last_update": "2026-01-05",
 
-  
   "products": {
     "fortnite_private": {
       "name": "Fortnite Private",
@@ -16,8 +15,8 @@
     "permanent_spoofer": {
       "name": "Permanent Spoofer",
       "status": "Updating",
-      "version": "Loader-3.1.MT-20DEC",
-      "last_update": "2025-12-20",
+      "version": "Loader-3.1.MT-19DEC",
+      "last_update": "2025-12-19",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Loader.exe"
     },
 
