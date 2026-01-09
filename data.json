@@ -7,8 +7,8 @@
     "fortnite_private": {
       "name": "Fortnite Private",
       "status": "Undetected",
-      "version": "39.11-CL",
-      "last_update": "2026-01-05",
+      "version": "39.20-CL",
+      "last_update": "2026-09-05",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -30,7 +30,7 @@
 
     "rust_external": {
       "name": "Rust External",
-      "status": "Undetected",
+      "status": "Updating",
       "version": "0.9.8",
       "last_update": "2026-01-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
