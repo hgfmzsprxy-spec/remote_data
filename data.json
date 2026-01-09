@@ -30,9 +30,9 @@
 
     "rust_external": {
       "name": "Rust External",
-      "status": "Updating",
-      "version": "0.9.8",
-      "last_update": "2026-01-04",
+      "status": "Undetected",
+      "version": "21428443  ",
+      "last_update": "2026-01-09",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
     },
 
