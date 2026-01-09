@@ -89,6 +89,27 @@
 
   
   "logs": [
+    
+    {
+      "product": "Rust External",
+      "flag": "Down",
+      "date": "2026-01-09 14:12",
+      "text": "Down due to latest game updated",
+      "changes": [
+        "Licenses are Frozen"
+      ]
+    },
+
+    {
+      "product": "Fortnite Private",
+      "flag": "Online",
+      "date": "2026-01-09 14:10",
+      "text": "Uptaded to latest game patch",
+      "changes": [
+        "Licenses Compensated +6 hours"
+      ]
+    },
+    
     {
       "product": "Fortnite Private",
       "flag": "Online",
@@ -100,6 +121,7 @@
         "Licenses Compensated +5 hours"
       ]
     },
+    
     {
       "product": "Rust External",
       "flag": "Online",
@@ -109,6 +131,7 @@
         
       ]
     },
+    
     {
       "product": "BO7 External",
       "flag": "Down",
@@ -118,6 +141,7 @@
         "Licenses are frozen"
       ]
     },
+    
     {
       "product": "Permanent Spoofer",
       "flag": "Online",
