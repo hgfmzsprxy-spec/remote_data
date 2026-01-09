@@ -32,7 +32,7 @@
       "name": "Rust External",
       "status": "Undetected",
       "version": "21428443  ",
-      "last_update": "2026-01-09",
+      "last_update": "2026-01-10",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
     },
 
@@ -89,6 +89,17 @@
 
   
   "logs": [
+
+     {
+      "product": "Rust External",
+      "flag": "Online",
+      "date": "2026-01-10 00:20",
+      "text": "Updated to latest game patch",
+      "changes": [
+        "Licenses Compensated +6 hours"
+      ]
+    },
+
     
     {
       "product": "Rust External",
