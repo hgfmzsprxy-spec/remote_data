@@ -7,8 +7,8 @@
     "fortnite_private": {
       "name": "Fortnite Private",
       "status": "Undetected",
-      "version": "39.20-CL",
-      "last_update": "2026-01-09",
+      "version": "39.30-CL",
+      "last_update": "2026-01-28",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -90,6 +90,22 @@
   
   "logs": [
 
+     {
+      "product": "Fortnite Private",
+      "flag": "Online",
+      "date": "2026-01-28 04:02",
+      "text": "Updated to latest game patch",
+      "changes": [
+        "Added Overlay Skeleton Chams",
+        "Added Chinese Hat",
+        "Added Bullet Tracers",
+        "Added Walking Trace",
+        "Added Weapon Rarity",
+        "Added Safe Zone Overlay",
+        "Licenses Compensated"
+      ]
+    },
+    
      {
       "product": "Rust External",
       "flag": "Online",
