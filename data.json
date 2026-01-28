@@ -90,7 +90,18 @@
   
   "logs": [
 
-     {
+
+    {
+      "product": "Arc Raiders External",
+      "flag": "Down",
+      "date": "2026-01-28 15:12",
+      "text": "Down due to latest game updated",
+      "changes": [
+        "Licenses are Frozen"
+      ]
+    },
+    
+   {
       "product": "Fortnite Private",
       "flag": "Online",
       "date": "2026-01-28 04:02",
@@ -105,6 +116,7 @@
         "Licenses Compensated"
       ]
     },
+    
     
      {
       "product": "Rust External",
