@@ -54,7 +54,7 @@
 
     "arc_raiders": {
       "name": "Arc Raiders External",
-      "status": "Undetected",
+      "status": "Updating",
       "version": "1.0.9",
       "last_update": "2026-01-24",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/arc.exe"
