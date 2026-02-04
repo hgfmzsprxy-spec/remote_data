@@ -8,7 +8,7 @@
       "name": "Fortnite Private",
       "status": "Undetected",
       "version": "39.30-CL",
-      "last_update": "2026-01-28",
+      "last_update": "2026-02-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -91,6 +91,18 @@
   "logs": [
 
 
+    {
+      "product": "Fortnite Private",
+      "flag": "Online",
+      "date": "2026-02-04 19:47",
+      "text": "Update",
+      "changes": [
+        "Improved aimbot functionality",
+        "Minor driver changes.",
+        "No compensation was applied"
+      ]
+    },
+    
 
      {
       "product": "Arc Raiders External",
