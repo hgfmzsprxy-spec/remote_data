@@ -7,8 +7,8 @@
     "fortnite_private": {
       "name": "Fortnite Private",
       "status": "Undetected",
-      "version": "39.30-CL",
-      "last_update": "2026-02-04",
+      "version": "39.40-CL",
+      "last_update": "2026-02-05",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -90,7 +90,17 @@
   
   "logs": [
 
+    {
+      "product": "Fortnite Private",
+      "flag": "Online",
+      "date": "2026-02-05 20:40",
+      "text": "Uptaded to latest game patch",
+      "changes": [
+        "Licenses Compensated +12 hours"
+      ]
+    },
 
+    
     {
       "product": "Fortnite Private",
       "flag": "Online",
