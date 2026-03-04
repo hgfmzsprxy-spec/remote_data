@@ -6,7 +6,7 @@
   "products": {
     "fortnite_private": {
       "name": "Fortnite Private",
-      "status": "Undetected",
+      "status": "Updating",
       "version": "39.40-CL",
       "last_update": "2026-02-05",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
@@ -118,7 +118,7 @@
       "product": "Arc Raiders External",
       "flag": "Online",
       "date": "2026-02-04 01:33",
-      "text": "Uptaded",
+      "text": "Updated",
       "changes": [
         "Updated to latest game patch on all verisons",
         "Added Player Zoom",
