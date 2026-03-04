@@ -1,14 +1,14 @@
 {
   "global_status": "online", 
   "loader_version": "0xc054fX94",
-  "last_update": "2026-02-04",
+  "last_update": "2026-03-04",
 
   "products": {
     "fortnite_private": {
       "name": "Fortnite Private",
       "status": "Updating",
       "version": "39.40-CL",
-      "last_update": "2026-02-04",
+      "last_update": "2026-03-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -32,7 +32,7 @@
       "name": "Rust External",
       "status": "Undetected",
       "version": "21428443",
-      "last_update": "2026-02-04",
+      "last_update": "2026-03-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
     },
 
@@ -56,7 +56,7 @@
       "name": "Arc Raiders External",
       "status": "Undetected",
       "version": "1.13.0",
-      "last_update": "2026-02-04",
+      "last_update": "2026-03-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/arc.exe"
     },
 
@@ -64,7 +64,7 @@
       "name": "R6S External",
       "status": "Undetected",
       "version": "1.11.1",
-      "last_update": "2026-02-04",
+      "last_update": "2026-03-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/NJFDEh7342761.exe"
     },
 
@@ -95,7 +95,7 @@
     {
       "product": "Rust External",
       "flag": "Online",
-      "date": "2026-02-04 01:33",
+      "date": "2026-03-04 01:33",
       "text": "Uptaded to latest game patch",
       "changes": [
         "Licenses Compensated"
@@ -107,7 +107,7 @@
    {
       "product": "Fortnite Private",
       "flag": "Down",
-      "date": "2026-02-04 01:33",
+      "date": "2026-03-04 01:33",
       "text": "Beta Testing",
       "changes": [
         "Temporary down due to dev update. Maximum eta.: 24h."
@@ -118,7 +118,7 @@
     {
       "product": "R6S External",
       "flag": "Online",
-      "date": "2026-02-04 01:33",
+      "date": "2026-03-04 01:33",
       "text": "Uptaded to latest game patch",
       "changes": [
         "Licenses Compensated"
@@ -130,7 +130,7 @@
     {
       "product": "Arc Raiders External",
       "flag": "Online",
-      "date": "2026-02-04 01:33",
+      "date": "2026-03-04 01:33",
       "text": "Updated",
       "changes": [
         "Updated to latest game patch on all verisons",
@@ -148,7 +148,7 @@
     {
       "product": "Fortnite Private",
       "flag": "Online",
-      "date": "2026-01-04 19:47",
+      "date": "2026-02-04 19:47",
       "text": "Update",
       "changes": [
         "Improved aimbot functionality",
