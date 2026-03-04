@@ -1,7 +1,7 @@
 {
   "global_status": "online", 
-  "loader_version": "0xc029ft64",
-  "last_update": "2026-02-27",
+  "loader_version": "0xc054fX94",
+  "last_update": "2026-02-04",
 
   "products": {
     "fortnite_private": {
@@ -90,13 +90,44 @@
   
   "logs": [
 
-    {
+
+        {
       "product": "Fortnite Private",
+      "flag": "Down",
+      "date": "2026-02-04 01:33",
+      "text": "Beta Testing",
+      "changes": [
+        "Temporary down due to dev update. Maximum eta.: 24h."
+      ]
+    },
+
+    
+    {
+      "product": "R6S External",
       "flag": "Online",
-      "date": "2026-02-05 20:40",
+      "date": "2026-02-04 01:33",
       "text": "Uptaded to latest game patch",
       "changes": [
-        "Licenses Compensated +12 hours"
+        "Licenses Compensated"
+      ]
+    },
+
+
+    
+    {
+      "product": "Arc Raiders External",
+      "flag": "Online",
+      "date": "2026-02-04 01:33",
+      "text": "Uptaded",
+      "changes": [
+        "Updated to latest game patch on all verisons",
+        "Added Player Zoom",
+        "Added Player FOV",
+        "Teleport to Loot was patched by the game developers and removed from the menu",
+        "Hatch Teleport was also patched and removed from the menu",
+        "Unlock All Doors is still working",
+        "disappearing during the fixed.",
+        "second raid should now be resolved."
       ]
     },
 
