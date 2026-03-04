@@ -8,7 +8,7 @@
       "name": "Fortnite Private",
       "status": "Updating",
       "version": "39.40-CL",
-      "last_update": "2026-02-05",
+      "last_update": "2026-02-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Discord.exe"
     },
 
@@ -32,7 +32,7 @@
       "name": "Rust External",
       "status": "Undetected",
       "version": "21428443",
-      "last_update": "2026-01-23",
+      "last_update": "2026-02-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/rust.exe"
     },
 
@@ -56,7 +56,7 @@
       "name": "Arc Raiders External",
       "status": "Undetected",
       "version": "1.13.0",
-      "last_update": "2026-01-31",
+      "last_update": "2026-02-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/arc.exe"
     },
 
@@ -64,7 +64,7 @@
       "name": "R6S External",
       "status": "Undetected",
       "version": "1.11.1",
-      "last_update": "2026-01-30",
+      "last_update": "2026-02-04",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/NJFDEh7342761.exe"
     },
 
@@ -91,7 +91,20 @@
   "logs": [
 
 
-        {
+
+    {
+      "product": "Rust External",
+      "flag": "Online",
+      "date": "2026-02-04 01:33",
+      "text": "Uptaded to latest game patch",
+      "changes": [
+        "Licenses Compensated"
+      ]
+    },
+
+
+    
+   {
       "product": "Fortnite Private",
       "flag": "Down",
       "date": "2026-02-04 01:33",
