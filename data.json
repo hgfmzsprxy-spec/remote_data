@@ -14,9 +14,9 @@
 
     "permanent_spoofer": {
       "name": "Permanent Spoofer",
-      "status": "Updating",
-      "version": "Loader-3.1.MT-19DEC",
-      "last_update": "2025-12-19",
+      "status": "Undetected",
+      "version": "Loader-3.2.MT-07MAR",
+      "last_update": "2026-03-07",
       "loader_url": "https://github.com/hgfmzsprxy-spec/remote_data/releases/download/loader/Loader.exe"
     },
 
@@ -92,7 +92,20 @@
 
 
 
-
+        {
+      "product": "Permanent Spoofer",
+      "flag": "Online",
+      "date": "2026-03-07 23:55",
+      "text": "Updated",
+      "changes": [
+        "Implemented updated EFI Spoof to Loader",
+        "Added disk spoofing options ( supported by every os )",
+        "Fixed issues related to uac, system admin account, and pin glitch.",
+        "Fully Working with EAC",
+        "Licenses Compensated"
+      ]
+    },
+    
         {
       "product": "Permanent Spoofer",
       "flag": "Down",
