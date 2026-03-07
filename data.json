@@ -92,6 +92,20 @@
 
 
 
+
+        {
+      "product": "Permanent Spoofer",
+      "flag": "Down",
+      "date": "2026-03-07 13:20",
+      "text": "Updating",
+      "changes": [
+        "Updating due to the latest EAC patches. ",
+        "Fixing common errors and unexpected returns. ",
+        "Implementation of new options"
+      ]
+    },
+
+    
     {
       "product": "Rust External",
       "flag": "Online",
